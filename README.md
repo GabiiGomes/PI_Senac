@@ -10,13 +10,13 @@
 - Apoiar a tomada de decisões estratégicas da administração por meio da disponibilização de relatórios e análises detalhadas, embasando estratégias e políticas institucionais em dados precisos e atualizados.
 - Implementar medidas de segurança robustas para proteger os dados da faculdade contra acessos não autorizados, vazamentos e ataques cibernéticos, garantindo a confidencialidade, integridade e disponibilidade das informações.
 
-## Protótipos 
+## Protótipos: 
 - [Protótipo]()
 
-## Diagrama Caso de Uso
+## Diagrama Caso de Uso:
 ![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
 
-## Diagrama de Classe
+## Diagrama de Classe:
 ![image](https://github.com/user-attachments/assets/ae300166-69e9-42fc-915c-cbd2d407699f)
 
 
