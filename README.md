@@ -11,11 +11,12 @@
 - Implementar medidas de segurança robustas para proteger os dados da faculdade contra acessos não autorizados, vazamentos e ataques cibernéticos, garantindo a confidencialidade, integridade e disponibilidade das informações.
 
 ### Protótipos: 
-- [Protótipo: Cadastro de Pessoa Física]()
-- [Protótipo: Cadastro de Pessoa Jurídica]()
-- [Protótipo: Cadastro de Professores]()
-- [Protótipo: Cadastro de Fornecedores]()
-- [Protótipo: Cadastro de Alunos]()
+- [Tela Inicial]()
+- [Cadastro de Pessoa Física]()
+- [Cadastro de Pessoa Jurídica]()
+- [Cadastro de Professores]()
+- [Cadastro de Fornecedores]()
+- [Cadastro de Alunos]()
 
 ### Diagrama Caso de Uso:
 ![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
