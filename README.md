@@ -1,4 +1,4 @@
-# PI_Senac Prototipação Sistema de Cadastro - Grupo 11
+# Prototipação Sistema de Cadastro - Grupo 11
 
 ## Visão Geral
 - A proposta de desenvolvimento de um Sistema de Gestão de Dados para a Faculdade Senac surge da necessidade de modernizar e otimizar os processos acadêmicos e administrativos da instituição. Atualmente, a faculdade enfrenta desafios relacionados à organização e ao gerenciamento eficiente de uma grande quantidade de dados, que abrangem desde informações acadêmicas dos alunos até aspectos administrativos, financeiros e de recursos humanos. A falta de integração entre os sistemas existentes e a dependência de processos manuais resultam em ineficiências operacionais, retrabalho e dificuldades no acesso às informações cruciais. Além disso, a crescente demanda por análises de dados para tomada de decisões estratégicas destaca a urgência de um sistema robusto de gestão de dados.
