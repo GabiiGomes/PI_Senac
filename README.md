@@ -13,9 +13,10 @@
 ## Protótipos 
 - [Protótipo]()
 
-## Diagramas
-![Diagrama Caso de Uso](![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
-)
-![Diagrama de Classe](![image](https://github.com/user-attachments/assets/ae300166-69e9-42fc-915c-cbd2d407699f)
-)
+## Diagrama Caso de Uso
+![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
+
+## Diagrama de Classe
+![image](https://github.com/user-attachments/assets/ae300166-69e9-42fc-915c-cbd2d407699f)
+
 
