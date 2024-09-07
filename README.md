@@ -24,3 +24,13 @@
 ![image](https://github.com/user-attachments/assets/ae300166-69e9-42fc-915c-cbd2d407699f)
 
 
+### Integrantes:
+-	[Leonardo Chinelato]()
+- [Deborah de Albuquerque Bello]() 
+-	[Lucas Ferreira dos Santos]()
+-	[Vinicius Francisco Souza Pessoa]()
+-	[Maria Gabriela Pereira Gomes](https://github.com/GabiiGomes)
+-	[Eduardo Mesquita Oliveira]()
+-	[Renan Pereira Santos]()
+-	[Amanda Silva de Almeida]()
+
