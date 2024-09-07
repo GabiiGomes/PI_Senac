@@ -11,7 +11,7 @@
 - Implementar medidas de segurança robustas para proteger os dados da faculdade contra acessos não autorizados, vazamentos e ataques cibernéticos, garantindo a confidencialidade, integridade e disponibilidade das informações.
 
 ### Protótipos: 
-- [Tela Inicial]()
+- [Tela Inicial](https://www.figma.com/design/RKnb3sRFzjM1Q08I5Hq3kR/Tela-Inicial?node-id=0-1&node-type=CANVAS&t=vlCYkodhRAq06nRu-0)
 - [Cadastro de Pessoa Física]()
 - [Cadastro de Pessoa Jurídica]()
 - [Cadastro de Professores]()
