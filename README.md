@@ -11,7 +11,12 @@
 - Implementar medidas de segurança robustas para proteger os dados da faculdade contra acessos não autorizados, vazamentos e ataques cibernéticos, garantindo a confidencialidade, integridade e disponibilidade das informações.
 
 ### Protótipos: 
-- https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Untitled?node-id=50-413&t=YAyCsvckQC8BaQC9-1
+- [Tela Inicial]()
+- [Cadastro Pessoa Física]()
+- [Cadastro Pessoa Jurídica]()
+- [Cadastro Professor](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Untitled?node-id=50-413&t=YAyCsvckQC8BaQC9-1)
+- [Cadastro Fornecedor]()
+- [Cadastro Aluno]()
 
 ### Diagrama Caso de Uso:
 ![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
