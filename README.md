@@ -12,8 +12,8 @@
 
 ### Protótipos: 
 - [Tela Inicial](https://www.figma.com/design/RKnb3sRFzjM1Q08I5Hq3kR/Tela-Inicial?node-id=0-1&node-type=CANVAS&t=vlCYkodhRAq06nRu-0)
-- [Cadastro de Pessoa Física]()
-- [Cadastro de Pessoa Jurídica]()
+- [Cadastro de Pessoa Física](https://www.figma.com/design/lAJWU6ssL9FrGBRyMc4qf3/Cadastro-Pessoa-F%C3%ADsica?node-id=0-1&node-type=CANVAS&t=MiOaVZIn8uu41xS7-0)
+- [Cadastro de Pessoa Jurídica](https://www.figma.com/design/tAhCntBgSCeswWM1CBWmRf/Cadastro-Pessoa-Jur%C3%ADdica?node-id=0-1&node-type=CANVAS&t=dnByzWeUOhEIV2CA-0)
 - [Cadastro de Professores]()
 - [Cadastro de Fornecedores]()
 - [Cadastro de Alunos]()
