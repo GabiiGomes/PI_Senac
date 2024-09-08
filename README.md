@@ -15,7 +15,7 @@
 - [Cadastro de Pessoa Física](https://www.figma.com/design/lAJWU6ssL9FrGBRyMc4qf3/Cadastro-Pessoa-F%C3%ADsica?node-id=0-1&node-type=CANVAS&t=MiOaVZIn8uu41xS7-0)
 - [Cadastro de Pessoa Jurídica](https://www.figma.com/design/tAhCntBgSCeswWM1CBWmRf/Cadastro-Pessoa-Jur%C3%ADdica?node-id=0-1&node-type=CANVAS&t=dnByzWeUOhEIV2CA-0)
 - [Cadastro de Professores](https://www.figma.com/design/UkyAJurgUSwtKhwCarEgwj/Cadastro-Professores?node-id=0-1&node-type=CANVAS&t=5kc0hYAhc9DoKui4-0)
-- [Cadastro de Fornecedores]()
+- [Cadastro de Fornecedores](https://www.figma.com/design/aJxmgfc8j9oxCAdrB4ptdh/Cadastro-Fornecedores?node-id=0-1&node-type=CANVAS&t=u6a43O8pJxP17LHJ-0)
 - [Cadastro de Alunos](https://www.figma.com/design/aH4U704FS4rFWw4uWllHQq/Cadastro-Alunos?node-id=0-1&node-type=CANVAS&t=j1KDF2GNv2pgxEYB-0)
 
 ### Diagrama Caso de Uso:
@@ -26,7 +26,7 @@
 
 
 ### Integrantes:
--	[Leonardo Chinelato]()
+-	[Leonardo Chinelato Coelho](https://github.com/leochinelato)
 - [Deborah de Albuquerque Bello]() 
 -	[Lucas Ferreira dos Santos]()
 -	[Vinicius Francisco Souza Pessoa]()
