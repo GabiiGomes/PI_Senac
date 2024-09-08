@@ -14,9 +14,9 @@
 - [Tela Inicial](https://www.figma.com/design/RKnb3sRFzjM1Q08I5Hq3kR/Tela-Inicial?node-id=0-1&node-type=CANVAS&t=vlCYkodhRAq06nRu-0)
 - [Cadastro de Pessoa Física](https://www.figma.com/design/lAJWU6ssL9FrGBRyMc4qf3/Cadastro-Pessoa-F%C3%ADsica?node-id=0-1&node-type=CANVAS&t=MiOaVZIn8uu41xS7-0)
 - [Cadastro de Pessoa Jurídica](https://www.figma.com/design/tAhCntBgSCeswWM1CBWmRf/Cadastro-Pessoa-Jur%C3%ADdica?node-id=0-1&node-type=CANVAS&t=dnByzWeUOhEIV2CA-0)
-- [Cadastro de Professores]()
+- [Cadastro de Professores](https://www.figma.com/design/UkyAJurgUSwtKhwCarEgwj/Cadastro-Professores?node-id=0-1&node-type=CANVAS&t=5kc0hYAhc9DoKui4-0)
 - [Cadastro de Fornecedores]()
-- [Cadastro de Alunos]()
+- [Cadastro de Alunos](https://www.figma.com/design/aH4U704FS4rFWw4uWllHQq/Cadastro-Alunos?node-id=0-1&node-type=CANVAS&t=j1KDF2GNv2pgxEYB-0)
 
 ### Diagrama Caso de Uso:
 ![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
