@@ -32,6 +32,6 @@
 -	[Vinicius Francisco Souza Pessoa]()
 -	[Maria Gabriela Pereira Gomes](https://github.com/GabiiGomes)
 -	[Eduardo Mesquita Oliveira]()
--	[Renan Pereira Santos]()
+-	[Renan Pereira Santos](https://github.com/renanps011)
 -	[Amanda Silva de Almeida]()
 
