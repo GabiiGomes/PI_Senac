@@ -11,12 +11,12 @@
 - Implementar medidas de segurança robustas para proteger os dados da faculdade contra acessos não autorizados, vazamentos e ataques cibernéticos, garantindo a confidencialidade, integridade e disponibilidade das informações.
 
 ### Protótipos: 
-- [Tela Inicial]()
-- [Cadastro Pessoa Física]()
-- [Cadastro Pessoa Jurídica]()
-- [Cadastro Professor](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Untitled?node-id=50-413&t=YAyCsvckQC8BaQC9-1)
-- [Cadastro Fornecedor]()
-- [Cadastro Aluno]()
+- [Tela Inicial](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=1-2&t=Xzvk0Df6mDaOL8Yu-1)
+- [Login Aluno](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=1-13&t=Xzvk0Df6mDaOL8Yu-1)
+- [Login Professor](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=50-413&t=Xzvk0Df6mDaOL8Yu-1)
+- [Cadastro Aluno](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=7-59&t=Xzvk0Df6mDaOL8Yu-1)
+- [Cadastro Professor](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=51-487&t=Xzvk0Df6mDaOL8Yu-1)
+- [Cadastro Pessoa Jurídica](https://www.figma.com/design/vWlVIJ0SOWci1cXWALjbA1/Senac?node-id=36-616&t=Xzvk0Df6mDaOL8Yu-1)
 
 ### Diagrama Caso de Uso:
 ![image](https://github.com/user-attachments/assets/a911bafe-8e07-4cc6-9afc-e144965c27d2)
