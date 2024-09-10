@@ -28,7 +28,7 @@
 ### Integrantes:
 -	[Leonardo Chinelato Coelho](https://github.com/leochinelato)
 - [Deborah de Albuquerque Bello](https://github.com/DehHazim) 
--	[Lucas Ferreira dos Santos]()
+-	[Lucas Ferreira dos Santos](https://github.com/Calmlikeab0mb)
 -	[Vinicius Francisco Souza Pessoa]()
 -	[Maria Gabriela Pereira Gomes](https://github.com/GabiiGomes)
 -	[Eduardo Mesquita Oliveira]()
